@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/merch_store_dhapro.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/merch_store_dhapro.props" />
+</Project>
