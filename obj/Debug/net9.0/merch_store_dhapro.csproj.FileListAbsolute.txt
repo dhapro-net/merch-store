@@ -95,3 +95,4 @@
 /home/otto/merch_store_dhapro/obj/Debug/net9.0/merch_store_dhapro.pdb
 /home/otto/merch_store_dhapro/obj/Debug/net9.0/merch_store_dhapro.genruntimeconfig.cache
 /home/otto/merch_store_dhapro/obj/Debug/net9.0/ref/merch_store_dhapro.dll
+/home/otto/merch_store_dhapro/obj/Debug/net9.0/merch_store_dhapro.sourcelink.json

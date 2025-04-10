@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("merch_store_dhapro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5673c587434a4d0487a3e654e97fbaf328c66333")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e858612bcc5cfd704e3c788244107f60bc253a")]
 [assembly: System.Reflection.AssemblyProductAttribute("merch_store_dhapro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("merch_store_dhapro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
